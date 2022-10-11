@@ -6,10 +6,15 @@ A curated list of amazingly awesome open source intelligence tools and resources
 [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
 In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
 
-## 📖 Table of Contents
+## 📖 Global Basic tools to get started with R&D
 
- - [General Search](#-general-search)
- - [Main National Search Engines](#-main-national-search-engines)
+# Opsec Saftey 
+
+ - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
+ - [DNS](#-dns)
+
+ # Basic searching
+ 
  - [Meta Search](#-meta-search)
  - [Specialty Search Engines](#-specialty-search-engines)
  - [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
@@ -20,158 +25,11 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
  - [Code Search](#-code-search)
  - [Major Social Networks](#-major-social-networks)
  - [Real-Time Search, Social Media Search, and General Social Media Tools](#-real-time-search-social-media-search-and-general-social-media-tools)
- - [Social Media Tools](#social-media-tools)
-   - [Twitter](#-twitter)
-   - [Facebook](#-facebook)
-   - [Instagram](#-instagram)
-   - [Pinterest](#-pinterest) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
-   - [Reddit](#-reddit)
-   - [VKontakte](#-vkontakte)
-   - [Tumblr](#-tumblr)
-   - [LinkedIn](#-linkedin)
-   - [Telegram](#-telegram)
- - [Blog Search](#-blog-search)
- - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
- - [Username Check](#-username-check)
- - [People Investigations](#-people-investigations)
- - [E-mail Search / E-mail Check](#-e-mail-search--e-mail-check)
- - [Phone Number Research](#-phone-number-research)
- - [Expert Search](#-expert-search)
- - [Company Research](#-company-research)
- - [Job Search Resources](#-job-search-resources)
- - [Q&A Sites](#-qa-sites)
- - [Domain and IP Research](#-domain-and-ip-research)
- - [Keywords Discovery and Research](#-keywords-discovery-and-research)
- - [Web History and Website Capture](#-web-history-and-website-capture)
- - [Language Tools](#-language-tools)
- - [Image Search](#-image-search)
- - [Image Analysis](#-image-analysis)
- - [Stock Images](#-stock-images)
- - [Video Search and Other Video Tools](#-video-search-and-other-video-tools)
- - [Radio and Podcasts Tools](#-radio-and-podcasts-tools)
- - [Academic Resources and Grey Literature](#-academic-resources-and-grey-literature)
- - [Books and Reading](#-books-and-reading)
- - [Geospatial Research and Mapping Tools](#-geospatial-research-and-mapping-tools)
- - [News](#-news)
- - [News Digest and Discovery Tools](#-news-digest-and-discovery-tools)
- - [Fact Checking](#-fact-checking)
- - [Data and Statistics](#-data-and-statistics)
- - [Web Monitoring](#-web-monitoring)
- - [Bookmarking](#-bookmarking)
- - [Startpages](#-startpages)
- - [Browsers](#-browsers)
- - [Offline Browsing](#-offline-browsing)
- - [VPN Services](#-vpn-services)
- - [Note-taking](#-note-taking)
- - [Annotation Tools](#-annotation-tools)
- - [Writing and Office Tools](#-writing-and-office-tools)
- - [Slide Show and Presentation Tools](#-slide-show-and-presentation-tools)
- - [Digital Publishing](#-digital-publishing)
- - [Newsletter Tools](#-newsletter-tools)
- - [Digital Storytelling](#-digital-storytelling)
- - [Infographics and Data Visualization](#-infographics-and-data-visualization)
- - [Image and Photo Editing](#-image-and-photo-editing)
- - [Productivity Tools](#-productivity-tools)
- - [E-mail Management](#-e-mail-management)
- - [Document and Reference Management](#-document-and-reference-management)
- - [PDF Management](#-pdf-management)
- - [OCR Tools](#-ocr-tools)
- - [Cloud Storage and File Sharing](#-cloud-storage-and-file-sharing)
- - [Web Automation](#-web-automation)
- - [Dashboard Tools](#-dashboard-tools)
- - [Wikis](#-wikis)
- - [Collaboration and Project Management](#-collaboration-and-project-management)
- - [Communication Tools](#-communication-tools)
- - [Calendars and Scheduling](#-calendars-and-scheduling)
- - [Mind Mapping, Concept Mapping and Idea Generation Tools](#-mind-mapping-concept-mapping-and-idea-generation-tools)
- - [Social Network Analysis](#-social-network-analysis)
- - [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
- - [DNS](#-dns)
- - [Maritime](#-maritime)
- - [Other Tools](#-other-tools)
- - [Threat Intelligence](#-threat-intelligence)
- - [OSINT Videos](#-osint-videos)
- - [OSINT Blogs](#-osint-blogs)
- - [Other Resources](#-other-resources)
-
-## [↑](#-Table-of-Contents) Contributing
-
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources.
-
-## [↑](#-Table-of-Contents) Credits
-
-This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
-
-Thanks to our main contributors
-[jivoi EK_](https://github.com/jivoi)
-[spmedia](https://github.com/spmedia)
-
-## [↑](#-Table-of-Contents) General Search
-
-*The main search engines used by users.*
-
-* [Advangle](http://advangle.com)
-* [Aol](http://search.aol.com)
-* [Ask](http://www.ask.com)
-* [Bing](http://www.bing.com)
-* [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-* [Gigablast](http://gigablast.com) - provides large-scale, high-performance, real-time information retrieval technology and services for partner sites. 
-* [Goodsearch](http://www.goodsearch.com) - a search engine for shopping deals online.
-* [Google Search](http://www.google.com) - Most popular search engine.
-* [Instya](http://www.instya.com)
-* [Impersonal.me](http://www.impersonal.me)
-* [Lycos](http://www.lycos.com)
-* [Mojeek](https://www.mojeek.com/)
-* [Search.com](http://www.search.com)
-* [SurfCanyon](http://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
-* [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
-algorithms, knowledgebase and AI technology.
-* [Yahoo! Search](http://www.yahoo.com)
-
-## [↑](#-Table-of-Contents) Main National Search Engines
-
-*Localized search engines by country.*
-
-* [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
-* [Baidu (China)](http://www.baidu.com) - The major search engine used in China
-* [Eniro (Sweden)](http://www.eniro.se)
-* [Goo (Japan)](http://www.goo.ne.jp)
-* [Najdsi (Slovenia)](http://www.najdi.si)
-* [Naver (South Korea)](http://www.naver.com)
-* [Onet.pl (Poland)](http://www.onet.pl)
-* [Orange (France)](http://www.orange.fr)
-* [Parseek (Iran)](http://www.parseek.com)
-* [SAPO (Portugal)](http://www.sapo.pt)
-* [Search.ch (Switzerland)](http://www.search.ch)
-* [Seznam(Czech Republic)](https://seznam.cz)
-* [Walla (Israel)](http://www.walla.co.il)
-* [Yandex (Russia)](http://www.yandex.com)
-* [Najdi.si (Slovenia)](http://www.najdi.si/)
-
-## [↑](#-Table-of-Contents) Meta Search
-
-*Lesser known and used search engines.*
-
-* [All-in-One](http://all-io.net)
-* [AllTheInternet](http://www.alltheinternet.com)
-* [Etools](http://www.etools.ch)
-* [FaganFinder](http://www.faganfinder.com/engines)
-* [Goofram](http://www.goofram.com)
-* [iZito](http://www.izito.com)
-* [Myallsearch](http://www.myallsearch.com)
-* [Qwant](http://www.qwant.com)
-* [Zapmeta](http://www.zapmeta.com)
-* [Swisscows](https://swisscows.com/)
-
-## [↑](#-Table-of-Contents) Specialty Search Engines
-
-*Search engines for specific information or topics.*
-
-* [2lingual Search](http://www.2lingual.com)
+ * [2lingual Search](http://www.2lingual.com)
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 * [Biznar](http://biznar.com)
 * [CiteSeerX](http://citeseer.ist.psu.edu)
-* [Google Custom Search](http://www.google.com/cse)
+
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 * [Internet Archive](https://archive.org/)
 * [Million Short](https://millionshort.com)
@@ -185,24 +43,7 @@ algorithms, knowledgebase and AI technology.
 * [WIPO](https://www3.wipo.int/branddb/en/)
 * [Netlas.io](https://app.netlas.io/)
 
-## [↑](#-Table-of-Contents) Visual Search and Clustering Search Engines
-
-*Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
-
-* [Carrot2](http://search.carrot2.org) - Organizes your search results into topics.
-* [Yippy](http://yippy.com) - Search using multiple sources at once
-
-## [↑](#-Table-of-Contents) Similar Sites Search
-
-*Find websites that are similar. Good for business competition research.*
-
-* [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
-* [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
-* [SitesLike](http://www.siteslike.com) - Find similar websites by category
-
-## [↑](#-Table-of-Contents) Document and Slides Search
-
-*Search for data located on PDFs, Word documents, presentation slides, and more.*
+# Searching of individual Category of "Things"
 
 * [Authorstream](http://www.authorstream.com)
 * [Find-pdf-doc](http://www.findpdfdoc.com)
@@ -213,9 +54,34 @@ algorithms, knowledgebase and AI technology.
 * [SlideShare](http://www.slideshare.net)
 * [Slideworld](http://www.slideworld.com)
 
-## [↑](#-Table-of-Contents) File Search
-
-*Search for all kind of files.*
+# All the Documents lets find all the Docs
+ 
+ 
+# Social Media/ Internet Watering hole queries 
+ 
+ - [Social Media Tools](#social-media-tools)
+   - [Twitter](#-twitter)
+   - [Facebook](#-facebook)
+   - [Instagram](#-instagram)
+   - [Pinterest](#-pinterest) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
+   - [Reddit](#-reddit)
+   - [VKontakte](#-vkontakte)
+   - [Tumblr](#-tumblr)
+   - [LinkedIn](#-linkedin)* [Boardreader](http://boardreader.com)
+* [Built With Flarum](https://builtwithflarum.com/)
+* [LinkBase](https://link-base.org/)
+* [Facebook Groups](https://www.facebook.com)
+* [Google Groups](https://groups.google.com)
+* [Linkedin Groups](http://www.linkedin.com)
+* [Ning](http://www.ning.com)
+* [Omgili](http://omgili.com)
+* [Xing Groups](https://www.xing.com/communities)
+* [Yahoo Groups](https://groups.yahoo.com)
+* [4chan Search](https://4chansearch.com/)
+ - [Telegram](#-telegram)
+ - [Blog Search](#-blog-search)
+ - [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
+ - [Username Check](#-username-check)
 
 * [FileChef](https://www.filechef.com/)
 * [File Search Engine](https://www.filesearch.link/)
@@ -225,9 +91,7 @@ algorithms, knowledgebase and AI technology.
 * [NAPALM FTP Indexer](https://www.searchftps.net/)
 * [FileListing](https://filelisting.com/)
 
-## [↑](#-Table-of-Contents) Pastebins
-
-*Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
+## Pastebins
 
 * [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
 * [cl1p](https://Cl1p.net)
@@ -252,19 +116,107 @@ algorithms, knowledgebase and AI technology.
 * [Rentry](https://rentry.co/)
 * [Skidbin](https://skidbin.net/) - A dox style pastebin ran by hackers
 
+# Employement and Public life inquires 
 
-## [↑](#-Table-of-Contents) Code Search
+- [People Investigations](#-people-investigations)
+ - [E-mail Search / E-mail Check](#-e-mail-search--e-mail-check)
+ - [Phone Number Research](#-phone-number-research)
+ - [Company Research](#-company-research)
+ - [Job Search Resources](#-job-search-resources)
+ - [Social Network Analysis](#-social-network-analysis)
+ 
+ # Enumeration and Mapiing of Public/Corprate Organizational Audits
+ 
+ - [Domain and IP Research](#-domain-and-ip-research)
+ - [Keywords Discovery and Research](#-keywords-discovery-and-research)
+ 
+ # Image Searching
+ 
+ * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
+* [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
+* [Exif Search](http://www.exif-search.com)
+* [FotoForensics](http://www.fotoforensics.com)
+* [Ghiro](http://www.getghiro.org)
+* [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
+* [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
+* [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
+* [Forensically](https://29a.ch/photo-forensics/)
+* [DiffChecker](https://www.diffchecker.com/image-diff/)
+* [ImgOps](https://imgops.com/)
+ 
+ # Image Analysis because AI image tech...
+ 
+ - [Image Search](#-image-search)
+ - [Image Analysis](#-image-analysis)
+ - [Stock Images](#-stock-images)
+ - [Video Search and Other Video Tools](#-video-search-and-other-video-tools)
+ 
+ # University and Academic Models, Theories and Concepts
+ 
+ - [Academic Resources and Grey Literature](#-academic-resources-and-grey-literature)
+ - [Books and Reading](#-books-and-reading)
+ 
+ # Visual Mapping for easy human brain processing of data
+ 
+ - [Geospatial Research and Mapping Tools](#-geospatial-research-and-mapping-tools)
+ - [Mind Mapping, Concept Mapping and Idea Generation Tools](#-mind-mapping-concept-mapping-and-idea-generation-tools)
+ 
+# News and Updates with Techniques
 
-*Search by website source code*
+ - [News](#-news)
+ - [News Digest and Discovery Tools](#-news-digest-and-discovery-tools)
+ 
+# Check your work
 
-* [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
-* [NerdyData](https://nerdydata.com) - Search engine for source code.
-* [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
-* [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
-* [Reposearch](http://codefinder.org/)
-* [PublicWWW](https://publicwww.com/)
+ - [Fact Checking](#-fact-checking)
+ - [Data and Statistics](#-data-and-statistics)
+ - [Web Monitoring](#-web-monitoring)
+ 
+ 
+ # Notes, Take Notes Take Detailed Notes
+ 
+ - [Note-taking](#-note-taking)
+ - [Annotation Tools](#-annotation-tools)
+ 
+ # Document handeling and processing
 
-## [↑](#-Table-of-Contents) Major Social Networks
+ - [E-mail Management](#-e-mail-management)
+ - [Document and Reference Management](#-document-and-reference-management)
+ - [PDF Management](#-pdf-management)
+
+ # Helpful Specified Shortcut creation and Colaboration
+ 
+ - [Web Automation](#-web-automation)
+ - [Dashboard Tools](#-dashboard-tools)
+ - [Wikis](#-wikis)
+ - [Collaboration and Project Management](#-collaboration-and-project-management)
+ - [Communication Tools](#-communication-tools)
+ 
+ 
+ # Some vieos from Colleuges, Experts, Researchers and the rest.
+ 
+
+ - [Threat Intelligence](#-threat-intelligence)
+ - [OSINT Videos](#-osint-videos)
+ - [OSINT Blogs](#-osint-blogs)
+ - [Other Resources](#-other-resources)
+
+This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
+
+Thanks to our main contributors
+[jivoi EK_](https://github.com/jivoi)
+[spmedia](https://github.com/spmedia)
+
+
+*Find websites that are similar. Good for business competition research.*
+
+* [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
+* [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
+* [SitesLike](http://www.siteslike.com) - Find similar websites by category
+
+
+
+# Major Social Networks
 
 * [Draugiem (Latvia)](https://www.draugiem.lv)
 * [Facebook](http://www.facebook.com)
@@ -317,7 +269,6 @@ algorithms, knowledgebase and AI technology.
 
 ## Social Media Tools
 
-### [↑](#-Table-of-Contents) Twitter
 
 * [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags.
 * [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
@@ -380,7 +331,7 @@ algorithms, knowledgebase and AI technology.
 * [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 * [Schedule Warble](https://warble.co)
 
-### [↑](#-Table-of-Contents) Facebook
+# Facebook
 
 * [Agora Pulse](http://barometer.agorapulse.com)
 * [Commun.it](http://commun.it)
@@ -395,7 +346,7 @@ algorithms, knowledgebase and AI technology.
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 * [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
 
-### [↑](#-Table-of-Contents) Instagram
+# Instagram
 
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
@@ -406,13 +357,9 @@ algorithms, knowledgebase and AI technology.
 * [Sterra](https://github.com/novitae/sterraxcyl)
 * [Toutatis](https://github.com/megadose/toutatis)
 
-### [↑](#-Table-of-Contents) Pinterest
 
-* [Pingroupie](http://pingroupie.com)
+# Reddit
 
-### [↑](#-Table-of-Contents) Reddit
-
-*Tools to help discover more about a reddit user or subreddit.*
 
 * [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
 * [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
@@ -425,58 +372,27 @@ algorithms, knowledgebase and AI technology.
 * [Reddit Comment Lookup](https://randomtools.io/reddit-comment-search/) - Search for reddit comments by reddit username.
 
 
-### [↑](#-Table-of-Contents) VKontakte
-
-*Perform various OSINT on Russian social media site VKontakte.*
-
-* [Дезертир](http://vk.com/app3046467)
-* [Barkov.net](http://vk.barkov.net)
-* [Report Tree](http://dcpu.ru/vk_repost_tree.php)
-* [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
-* [VK5](http://vk5.city4me.com)
-* [VK Community Search](http://vk.com/communities)
-* [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
-* [VK People Search](http://vk.com/people)
-* [VK.watch](https://vk.watch/)
-
-### [↑](#-Table-of-Contents) Tumblr
-
-* [Tumblr Search](http://www.tumblr.com/search)
-
-### [↑](#-Table-of-Contents) LinkedIn
-
-* [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Browser plugin that finds emails of people's profiles in LinkedIn.
 
 
-### [↑](#-Table-of-Contents) Telegram
+# Telegram
 
 * [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms. 
 * [Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 
 
-## [↑](#-Table-of-Contents) Blog Search
+# Blog Search
 
 * [BlogSearchEngine](http://www.blogsearchengine.org)
 * [Notey](http://www.notey.com) - Blog post search engine.
 * [Sphere](https://www.sphere.com)
 * [Twingly](http://www.twingly.com)
 
-## [↑](#-Table-of-Contents) Forums and Discussion Boards Search
 
-* [Boardreader](http://boardreader.com)
-* [Built With Flarum](https://builtwithflarum.com/)
-* [LinkBase](https://link-base.org/)
-* [Facebook Groups](https://www.facebook.com)
-* [Google Groups](https://groups.google.com)
-* [Linkedin Groups](http://www.linkedin.com)
-* [Ning](http://www.ning.com)
-* [Omgili](http://omgili.com)
-* [Xing Groups](https://www.xing.com/communities)
-* [Yahoo Groups](https://groups.yahoo.com)
-* [4chan Search](https://4chansearch.com/)
 
-## [↑](#-Table-of-Contents) Username Check
+
+
+# Username Check
 
 * [Check User Names](http://www.checkusernames.com)
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
@@ -491,37 +407,8 @@ algorithms, knowledgebase and AI technology.
 * [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
-## [↑](#-Table-of-Contents) People Investigations
 
-* [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
-* [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
-* [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
-* [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
-* [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
-* [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
-* [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
-* [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
-* [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
-* [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present. 
-* [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
-* [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
-* [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
-* [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
-* [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
-* [Kompass](http://www.kompass.com) - Business directory and search.
-* [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
-* [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
-* [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
-* [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
-* [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
-* [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
-* [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
-* [ZabaSearch](https://www.zabasearch.com/)
-* [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
-* [Mugshots](https://mugshots.com/)
-* [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
-
-## [↑](#-Table-of-Contents) E-mail Search / E-mail Check
+# E-mail Search / E-mail Check
 
 * [DeHashed](https://dehashed.com/) - DeHashed helps prevent ATO with our extensive data set & breach notification solution. Match employee and consumer logins against the world’s largest repository of aggregated publicly available assets leaked from third-party breaches. Secure passwords before criminals can abuse stolen information, and protect your enterprise.
 * [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name. 
@@ -544,7 +431,8 @@ algorithms, knowledgebase and AI technology.
 * [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 * [Ghunt](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
-## [↑](#-Table-of-Contents) Phone Number Research
+# Phone Number Research
+
 * [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 * [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
@@ -554,7 +442,7 @@ algorithms, knowledgebase and AI technology.
 * [Sync.ME](https://sync.me/)
 * [EmobileTracker.com](https://www.emobiletracker.com/)
 
-## [↑](#-Table-of-Contents) Expert Search
+# Expert Search
 
 * [Academia](http://academia.edu)
 * [CanLaw](http://www.canlaw.com)
@@ -581,7 +469,7 @@ algorithms, knowledgebase and AI technology.
 * [TRExpertWitness](https://trexpertwitness.com)
 * [Zintro](https://www.zintro.com)
 
-## [↑](#-Table-of-Contents) Company Research
+# Company Research
 
 * [AllStocksLinks](http://www.allstocks.com/links)
 * [Better Business Bureau](http://www.bbb.org)
@@ -636,44 +524,12 @@ algorithms, knowledgebase and AI technology.
 * [GoodFirms](https://www.goodfirms.co/)
 * [YouControl](https://youcontrol.com.ua/en/)
 
-## [↑](#-Table-of-Contents) Job Search Resources
+# Job Search Resources
 
-* [Beyond](http://www.beyond.com)
-* [CampusCareerCenter](http://www.campuscareercenter.com)
-* [CareerBuilder](http://www.careerbuilder.com)
-* [College Recruiter](https://www.collegerecruiter.com)
-* [Craiglist](http://losangeles.craigslist.org)
-* [CVFox](http://www.cvfox.com)
-* [Dice](http://www.dice.com)
-* [Eluta (Canada)](http://www.eluta.ca)
-* [Eurojobs](https://www.eurojobs.com)
-* [Fish4Jobs](http://www.fish4.co.uk)
-* [Glassdoor](https://www.glassdoor.com)
 * [Headhunter](http://www.headhunter.com)
-* [Indeed](http://www.indeed.com) - is an online job searching website that gives job seekers free access to search for a job, post their resumes, and research companies.
-* [Jobs (Poland)](http://www.jobs.pl)
-* [Jobsite (UK)](http://www.jobsite.co.uk)
-* [Linkedin](https://www.linkedin.com)
-* [Monster](http://www.monster.com)
-* [Naukri (India)](http://www.naukri.com)
-* [Reed (UK)](http://www.reed.co.uk)
-* [Seek (Australia)](http://www.seek.com.au)
-* [SimplyHired](http://www.simplyhired.com)
-* [Xing](http://www.xing.com)
-* [ZipRecruiter](https://www.ziprecruiter.com)
-* [RecruitEm](https://recruitin.net/)
 
-## [↑](#-Table-of-Contents) Q&A Sites
 
-* [Answers.com](http://www.answers.com)
-* [Ask](http://www.ask.com)
-* [eHow](http://www.ehow.com)
-* [Quora](http://www.quora.com)
-* [StackExchange](http://stackexchange.com)
-* [Yahoo Answers](http://answers.yahoo.com)
-* [Ответы](https://otvet.mail.ru/)
-
-## [↑](#-Table-of-Contents) Domain and IP Research
+# Domain and IP Research
 
 * [Accuranker](https://www.accuranker.com)
 * [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
@@ -748,7 +604,7 @@ algorithms, knowledgebase and AI technology.
 * [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 
-## [↑](#-Table-of-Contents) Keywords Discovery and Research
+# Keywords Discovery and Research
 
 * [Google Adwords](http://adwords.google.com) - Get monthly keyword volume data and stats.
 * [Google Trends](https://www.google.com/trends) - See how many users are searching for specific keywords.
@@ -761,7 +617,7 @@ algorithms, knowledgebase and AI technology.
 * [Ubersuggest](http://ubersuggest.org)
 * [Yandex Wordstat](https://wordstat.yandex.com)
 
-## [↑](#-Table-of-Contents) Web History and Website Capture
+# Web History and Website Capture
 
 * [Archive.is](http://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
 * [BlackWidow](http://softbytelabs.com/wp/blackwidow/)
@@ -772,48 +628,9 @@ algorithms, knowledgebase and AI technology.
 * [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
 * [waybackpy](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
-## [↑](#-Table-of-Contents) Language Tools
 
-* [2lingual](http://www.2lingual.com)
-* [Apertium](https://www.apertium.org)
-* [Babelfish](https://www.babelfish.com)
-* [Bablic](https://www.bablic.com)
-* [Bing Translator](http://www.bing.com/translator)
-* [Dict.cn](http://dict.cn)
-* [Dictionary.com: Translation](http://translate.reference.com)
-* [Free Translator](http://www.free-translator.com)
-* [Free Website Translation](http://free-website-translation.com)
-* [Frengly](http://frengly.com)
-* [Gengo](http://gengo.com)
-* [Google Input Tools](https://www.google.com/inputtools/try) - Makes it easy to type in the language you choose, anywhere on the web.
-* [Google Translate](https://translate.google.com)
-* [Google Tranlslate Extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en)
-* [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
-* [IloveTyping](https://ilovetyping.com/english-to-hindi-typing) - Translate English to Hindi
-* [Inasentence](https://inasentence.me/) - Find Sentences from Words
-* [India Typing](https://indiatyping.com/index.php/translate/english-to-hindi)
-* [imTranslator](http://imtranslator.net/translation)
-* [iTranslate Voice](http://itranslatevoice.com)
-* [Lexicool Translation](http://www.lexicool.com/translate.asp)
-* [Linguee](http://www.linguee.com)
-* [LingvoSoftOnline](http://www.lingvozone.com)
-* [Microsoft Translator](http://www.microsoft.com/en-us/translator)
-* [Noslang](http://www.noslang.com)
-* [OdysseyTranslator](http://odysseytranslator.com)
-* [Pleco](https://www.pleco.com)
-* [PROMT-Online](http://translation2.paralink.com)
-* [Reddit/r/translator](https://www.reddit.com/r/translator)
-* [Reverso](http://www.reverso.net)
-* [Sentence Stack](https://sentencestack.com/) - Sentence search engine with grammar check, translation, and idiom detection.
-* [Slangit](http://slangit.com)
-* [Systran](http://www.systransoft.com)
-* [Translate.com](https://www.translate.com)
-* [Unbabel](https://unbabel.com)
-* [WorldReference.com](http://www.wordreference.com)
-* [Yamli (Arabic Search Engine)](http://www.yamli.com)
-* [Yandex Translate](https://translate.yandex.ru)
 
-## [↑](#-Table-of-Contents) Image Search
+# Image Search
 
 * [7Photos](http://7photos.net)
 * [Baidu Images](http://image.baidu.com)
@@ -840,43 +657,9 @@ algorithms, knowledgebase and AI technology.
 * [Search4faces](https://search4faces.com/)
 * [PImEyes](https://pimeyes.com)
 
-## [↑](#-Table-of-Contents) Image Analysis
 
-* [ExifLooter](https://github.com/aydinnyunus/exiflooter)
-* [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
-* [Exif Search](http://www.exif-search.com)
-* [FotoForensics](http://www.fotoforensics.com)
-* [Ghiro](http://www.getghiro.org)
-* [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
-* [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
-* [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
-* [Forensically](https://29a.ch/photo-forensics/)
-* [DiffChecker](https://www.diffchecker.com/image-diff/)
-* [ImgOps](https://imgops.com/)
 
-## [↑](#-Table-of-Contents) Stock Images
-
-* [AlltheFreeStock](http://allthefreestock.com)
-* [Death to Stock](http://deathtothestockphoto.com)
-* [Freeimages](http://www.freeimages.com)
-* [Freestocks.org](http://freestocks.org)
-* [Gratisography](http://www.gratisography.com)
-* [IM Free](http://www.imcreator.com/free)
-* [ISO Republic](http://isorepublic.com)
-* [iStockphoto](http://www.istockphoto.com)
-* [Kaboompics](http://kaboompics.com)
-* [LibreStock](https://librestock.com)
-* [Life of Pix](http://www.lifeofpix.com)
-* [NegativeSpace](http://negativespace.co)
-* [New Old Stock](http://nos.twnsnd.co)
-* [Pixabay](https://pixabay.com)
-* [Pexels](https://www.pexels.com)
-* [Stocksnap](https://stocksnap.io)
-* [Shutterstock](http://www.shutterstock.com)
-* [tookapic](https://stock.tookapic.com)
-* [Unsplash](https://unsplash.com) - Free high-resolution photos.
-
-## [↑](#-Table-of-Contents) Video Search and Other Video Tools
+# Video Search and Other Video Tools
 
 * [Aol Videos](http://on.aol.com)
 * [Bing Videos](http://www.bing.com/?scope=video)
@@ -905,16 +688,9 @@ algorithms, knowledgebase and AI technology.
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
 * [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
-## [↑](#-Table-of-Contents) Radio and Podcasts Tools
 
-* [iTunes Podcasts](http://www.apple.com/itunes/podcasts)
-* [Listelive](http://www.listenlive.eu)
-* [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
-* [Podcast Chart](http://www.podcastchart.com)
-* [Podgrab](https://github.com/akhilrex/podgrab)
-* [Podkicker](https://play.google.com/store/apps/details?id=ait.podka&hl=en)
 
-## [↑](#-Table-of-Contents) Academic Resources and Grey Literature
+# Academic Resources and Grey Literature
 
 * [Academia](https://www.academia.edu)
 * [Academic Journals](http://www.academicjournals.org)
@@ -959,59 +735,8 @@ algorithms, knowledgebase and AI technology.
 * [World Science](http://worldwidescience.org)
 * [Zetoc](http://zetoc.jisc.ac.uk)
 
-## [↑](#-Table-of-Contents) Books and Reading
 
-* [Amazon Cheap Books](http://www.amazon.com/b?tag=mak041-20&linkCode=as2&ie=UTF8&node=2245146011)
-* [BingeBooks](https://www.bingebooks.com)
-* [Blinkist](https://www.blinkist.com)
-* [Bookbub](https://www.bookbub.com)
-* [Bookbrowse](https://www.bookbrowse.com)
-* [Bookish](https://bookish.netgalley.com)
-* [Booklikes](http://booklikes.com)
-* [Bookmate](https://bookmate.com)
-* [Bookscovery](https://www.bookscovery.com)
-* [Bookseer](http://bookseer.com)
-* [Books on the Knob](http://blog.booksontheknob.org)
-* [Calibre](https://www.calibre-ebook.com)
-* [Daily Cheap Reads](http://www.dailycheapreads.com)
-* [ExplainToMe](https://explaintome.herokuapp.com)
-* [Favobooks](http://favobooks.com)
-* [Free Kindle Books](http://freekindlebooks.org)
-* [Gnooks](http://www.gnooks.com)
-* [Google Books](https://books.google.com)
-* [Goodreads](http://www.goodreads.com)
-* [How Long To Read](https://howlongtoreadthis.com)
-* [I love my Kindle](https://ilmk.wordpress.com)
-* [Internet Archive Texts](http://archive.org/details.php?identifier=texts)
-* [Jellybooks](https://www.jellybooks.com)
-* [Just Free Books](http://www.justfreebooks.info)
-* [KindleNationDay](http://kindlenationdaily.com)
-* [KindleWorld](http://kindleworld.blogspot.com)
-* [Leatherbound](http://www.leatherbound.me)
-* [Lendle](http://lendle.me)
-* [LibraryThing](https://www.librarything.com)
-* [Librivox](https://librivox.org)
-* [Loyal Books](http://www.loyalbooks.com)
-* [Many Books](http://manybooks.net)
-* [MostRecommendedBooks](https://mostrecommendedbooks.com)
-* [Narro](https://www.narro.co)
-* [Open Culture: Free Audiobooks](http://www.openculture.com/freeaudiobooks)
-* [OpeningtheBook](http://www.openingthebook.com)
-* [Overdrive](https://www.overdrive.com)
-* [Pixel of Ink](http://www.pixelofink.com)
-* [Project Gutenberg](http://www.gutenberg.org)
-* [Read](https://medium.com/@readapp/introducing-read-for-ios-de4d2799254a#.z3lrigjr7)
-* [Reader IQ](http://www.ereaderiq.com)
-* [Readgeek](http://www.readgeek.com)
-* [Read This Twice](https://readthistwice.com)
-* [Riffle](https://www.rifflebooks.com)
-* [Shepherd](https://www.shepherd.com)
-* [The Story Graph](https://www.thestorygraph.com)
-* [Tinderizer](http://tinderizer.com)
-* [Vuibo](https://vuibo.com)
-* [WhatShouldIReadNext](http://www.whatshouldireadnext.com)
-
-## [↑](#-Table-of-Contents) Geospatial Research and Mapping Tools
+# Geospatial Research and Mapping Tools
 
 * [Atlasify](http://www.atlasify.com)
 * [Batchgeo](http://batchgeo.com)
@@ -1085,7 +810,7 @@ algorithms, knowledgebase and AI technology.
 * [SOAR](https://soar.earth/)
 * [digiKam](https://www.digikam.org/)
 
-## [↑](#-Table-of-Contents) News
+# News
 
 * [1st Headlines](http://www.1stheadlines.com)
 * [ABYZNewsLinks](http://www.abyznewslinks.com)
@@ -1128,7 +853,7 @@ algorithms, knowledgebase and AI technology.
 * [World-Newspapers](http://www.world-newspapers.com)
 * [Yahoo News](http://news.yahoo.com)
 
-## [↑](#-Table-of-Contents) News Digest and Discovery Tools
+# News Digest and Discovery Tools
 
 * [Flipboard](https://flipboard.com)
 * [Hubii](http://hubii.com)
@@ -1143,7 +868,7 @@ algorithms, knowledgebase and AI technology.
 * [Superdesk](https://www.superdesk.org)
 * [Trooclick](http://trooclick.com)
 
-## [↑](#-Table-of-Contents) Fact Checking
+# Fact Checking
 
 * [About Urban Legends](http://urbanlegends.about.com)
 * [Captin Fact](https://captainfact.io/)
@@ -1155,84 +880,7 @@ algorithms, knowledgebase and AI technology.
 * [Verification Handbook](http://verificationhandbook.com)
 * [Verification Junkie](http://verificationjunkie.com)
 
-## [↑](#-Table-of-Contents) Data and Statistics
 
-* [AGOA Data Center](http://agoa.info)
-* [AidData](http://aiddata.org)
-* [ADB Statistics and Databases](http://www.adb.org/data/statistics)
-* [AWS Public Datasets](http://aws.amazon.com/datasets)
-* [Bank for International Settlements Statistics](http://www.bis.org/statistics/index.htm)
-* [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
-* [Berkely Library: Data Lab](http://www.lib.berkeley.edu/libraries/data-lab)
-* [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
-* [Center for International Earth Science Information Network](http://www.ciesin.org)
-* [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
-* [Data.gov.uk](https://data.gov.uk)
-* [DBPedia](http://wiki.dbpedia.org)
-* [European Commission Eurobarometer](http://ec.europa.eu/COMMFrontOffice/PublicOpinion)
-* [European Union Open Data Portal](http://open-data.europa.eu/en/data)
-* [Eurostat](http://ec.europa.eu/eurostat)
-* [Freebase](https://developers.google.com/freebase)
-* [Gapminder World](http://www.gapminder.org/data)
-* [GEOHIVE](http://www.geohive.com)
-* [globalEDGE Database of International Business Statistics](http://globaledge.msu.edu/tools-and-data/dibs)
-* [Google Finance](https://www.google.com/finance)
-* [Google Public Data Explorer](http://www.google.com/publicdata/directory)
-* [Government of Canada Open Data](http://open.canada.ca/en)
-* [HIS Piers](https://www.ihs.com/products/piers.html)
-* [Human Development Reports](http://hdr.undp.org/en/global-reports)
-* [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm)
-* [International Trade Center](http://www.intracen.org/ByCountry.aspx)
-* [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
-* [ILO World Employment and Social Outlook Trends](http://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm)
-* [IMF World Economic Outlook Database](http://www.imf.org/external/ns/cs.aspx?id=28)
-* [Index Mundi](http://www.indexmundi.com)
-* [International Energy Agency Energy Atlas](http://energyatlas.iea.org)
-* [International Energy Agency Statistics](http://www.iea.org/statistics)
-* [Junar](http://junar.com)
-* [Knoema](https://knoema.com)
-* [LandMatrix](http://landmatrix.org)
-* [Latinobarometro](http://www.latinobarometro.org)
-* [Library, University of Michigan: Statistics and Datasets](http://www.lib.umich.edu/browse/Statistics%20and%20Data%20Sets)
-* [Nation Master](http://www.nationmaster.com/statistics)
-* [OECD Aid Database](http://www.oecd.org/dac/stats/data.htm)
-* [OECD Data](https://data.oecd.org)
-* [OECD Factbook](http://www.oecd-ilibrary.org/economics/oecd-factbook_18147364)
-* [Open Data Network](http://www.opendatanetwork.com)
-* [Paul Hensel’s General Informational Data Page](http://www.paulhensel.org/dataintl.html)
-* [Penn World Table](http://www.rug.nl/research/ggdc/data/pwt/pwt-8.1)
-* [Pew Research Center](http://www.pewinternet.org/datasets)
-* [Population Reference Bureau Data Finder](http://www.prb.org/DataFinder.aspx)
-* [PRS Risk Indicators](http://www.prsgroup.com)
-* [SESRIC Basic Social and Economic Indicators](http://www.sesric.org/baseind.php)
-* [SESRIC Databases](http://www.sesric.org/databases-index.php)
-* [Statista](http://www.statista.com)
-* [The Atlas of Economic Complexity](http://atlas.cid.harvard.edu)
-* [The Data and Story Library](http://lib.stat.cmu.edu/DASL)
-* [Trading Economics](http://www.tradingeconomics.com)
-* [Transparency.org Corruption Perception Index](http://www.transparency.org/cpi2015)
-* [UN COMTRADE Database](http://comtrade.un.org)
-* [UNCTAD Country Fact Sheets](http://unctad.org/en/Pages/DIAE/World%20Investment%20Report/Country-Fact-Sheets.aspx)
-* [UNCTAD Investment Country Profiles](http://unctad.org/en/Pages/Publications/Investment-country-profiles.aspx)
-* [UNCTAD STAT](http://unctadstat.unctad.org)
-* [UN Data](http://data.un.org)
-* [UNDPs Human Development Index](http://hdr.undp.org/en/data)
-* [UNECE](http://w3.unece.org/PXWeb/en)
-* [UNESCO Institute for Statistics](http://uis.unesco.org)
-* [UNIDO Statistical Databases](http://www.unido.org/resources/statistics/statistical-databases.html)
-* [UNStats Social Indicators](http://unstats.un.org/unsd/demographic/products/socind)
-* [Upsala Conflict Data Program](http://www.pcr.uu.se/research/UCDP)
-* [US Data and Statistics](https://www.usa.gov/statistics)
-* [WHO Data](http://www.who.int/gho/en)
-* [World Bank Data](http://datatopics.worldbank.org/consumption/home)
-* [World Bank Data](http://data.worldbank.org)
-* [World Bank Doing Business](http://www.doingbusiness.org)
-* [World Bank Enterprise Surveys](http://www.enterprisesurveys.org)
-* [World Bank Investing Across Borders](http://iab.worldbank.org)
-* [World Integrated Trade Solution](http://wits.worldbank.org)
-* [WTO Statistics](https://www.wto.org/english/res_e/statis_e/statis_e.htm)
-* [Vizala](https://vizala.com)
-* [Zanran](http://zanran.com)
 
 ## [↑](#-Table-of-Contents) Web Monitoring
 
@@ -1279,83 +927,9 @@ algorithms, knowledgebase and AI technology.
 * [WebSite Watcher](http://www.aignes.com/index.htm)
 * [Winds](http://winds.getstream.io)
 
-## [↑](#-Table-of-Contents) Bookmarking
 
-* [Bibsonomy](http://www.bibsonomy.org)
-* [BookmarkOS](https://bookmarkos.com)
-* [Booky](http://booky.io)
-* [ChannelKit](http://channelkit.com)
-* [Clipix](https://www.clipix.com)
-* [Curabase](https://www.curabase.com)
-* [Diigo](https://www.diigo.com)
-* [Evernote](http://evernote.com)
-* [Dropmark](http://www.dropmark.com)
-* [eLink](https://elink.io)
-* [FAVable](http://www.favable.com)
-* [Instapaper](http://www.instapaper.com)
-* [Juxtapost](http://www.juxtapost.com)
-* [Klart](https://klart.co)
-* [Linkman Pro](http://www.outertech.com/en/bookmarks-favorites)
-* [Linkstash](http://www.xrayz.co.uk)
-* [LiveBinders](http://www.livebinders.com)
-* [Memonic](http://www.memonic.com)
-* [Microsoft OneNote](http://office.microsoft.com/en-us/onenote)
-* [Papaly](https://papaly.com)
-* [Paperwork](https://github.com/twostairs/paperwork)
-* [Pearltrees](http://www.pearltrees.com)
-* [Pocket](http://getpocket.com)
-* [Raindrop](https://raindrop.io)
-* [Refind](https://refind.com)
-* [Scoop.it](http://www.scoop.it)
-* [Scrible](http://www.scrible.com)
-* [Sitehoover](http://www.sitehoover.com)
-* [Stache](http://getstache.com)
-* [start.me](https://www.start.me)
-* [Thinkery](http://thinkery.me)
-* [Trackplanet](https://trackpanel.net)
-* [Wepware](http://www.wepware.com)
-* [Zotero](http://www.zotero.org)
 
-## [↑](#-Table-of-Contents) Startpages
-
-* [allmyfaves](http://www.allmyfaves.com)
-* [ighome](http://www.ighome.com)
-* [iloggo](http://iloggo.com)
-* [Kadaza](http://www.kadaza.com)
-* [Myfav.es](http://myfav.es)
-* [My Yahoo](https://my.yahoo.com)
-* [Protopage](http://www.protopage.com)
-* [Start.io](http://start.io)
-* [start.me](https://www.start.me)
-* [Symbaloo](http://www.symbaloo.com)
-* [uStart.org](http://www.ustart.org)
-* [Yourport](http://www.yourport.com)
-* [Zeadoo](http://www.zeadoo.com)
-* [Zenstart](http://www.zenstart.com)
-
-## [↑](#-Table-of-Contents) Browsers
-
-* [Atom](https://browser.ru/)
-* [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
-* [CentBrowser](http://www.centbrowser.com)
-* [Chrome](https://www.google.com/chrome)
-* [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)
-* [Coowon](http://coowon.com)
-* [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
-* [Firefox](https://www.mozilla.org)
-* [Maxthon](http://www.maxthon.com)
-* [Opera](http://www.opera.com)
-* [Safari](http://www.apple.com/safari)
-* [Sleipnir](http://www.fenrir-inc.com/jp/sleipnir)
-* [Slimjet](http://www.slimjet.com)
-* [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
-* [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet.
-* [Torch](http://www.torchbrowser.com)
-* [UCBrowser](http://www.ucweb.com)
-* [Vivaldi](https://vivaldi.com)
-* [Yandex Browser](https://browser.yandex.com/desktop/main)
-
-## [↑](#-Table-of-Contents) Offline Browsing
+# Offline Browsing
 
 * [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
 * [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy)
@@ -1368,12 +942,9 @@ algorithms, knowledgebase and AI technology.
 * [WebAssistant](http://www.proxy-offline-browser.com/download.html)
 * [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier)
 
-## [↑](#-Table-of-Contents) VPN Services
 
-* [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
-* [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
-## [↑](#-Table-of-Contents) Note-taking
+# Note-taking
 
 * [Evernote](https://www.evernote.com)
 * [Fetchnotes](http://www.fetchnotes.com)
@@ -1393,7 +964,7 @@ algorithms, knowledgebase and AI technology.
 * [wridea](http://wridea.com)
 * [Calculist](https://app.calculist.io/)
 
-## [↑](#-Table-of-Contents) Annotation Tools
+# Annotation Tools
 
 * [A.nnotate](http://a.nnotate.com)
 * [Annotator](http://annotatorjs.org)
@@ -1405,225 +976,10 @@ algorithms, knowledgebase and AI technology.
 * [Pund.it](http://thepund.it)
 * [Skitch](https://evernote.com/skitch)
 
-## [↑](#-Table-of-Contents) Writing and Office Tools
 
-* [Arguman](http://en.arguman.org)
-* [Bibme](http://www.bibme.org)
-* [Citationsy](https://citationsy.com)
-* [Cite This For Me](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle?hl=en)
-* [FreeOffice](http://www.freeoffice.com)
-* [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
-* [GoogleDocs](https://www.google.com/docs/about)
-* [LibreOffice](https://www.libreoffice.org)
-* [MS Office](https://products.office.com)
-* [Office Online](https://chrome.google.com/webstore/detail/office-online/ndjpnladcallmjemlbaebfadecfhkepb/related)
-* [OmniOutliner](https://www.omnigroup.com/omnioutliner)
-* [OnlyOffice](https://www.onlyoffice.com)
-* [oTranscribe](http://otranscribe.com)
-* [Scrivener](http://literatureandlatte.com/scrivener.php)
-* [TextExpander](https://smilesoftware.com/textexpander)
-* [UltraEdit](http://www.ultraedit.com)
 
-## [↑](#-Table-of-Contents) Slide Show and Presentation Tools
 
-* [Canva](https://www.canva.com/create/presentations)
-* [Convert Words to Time](https://wordstotime.com) - Converts the number of words in a presentation or speech to how many minutes it will take to read.
-* [Deckset](http://www.decksetapp.com)
-* [emaze](https://www.emaze.com)
-* [GoogleDocs](https://docs.google.com)
-* [Haiku Deck](https://www.haikudeck.com)
-* [Keyonote](http://www.apple.com/de/mac/keynote)
-* [KnowledgeVision](http://www.knowledgevision.com)
-* [LibreOffice](https://www.libreoffice.org)
-* [Live Slides](https://www.liveslides.com)
-* [MS Office](https://products.office.com)
-* [Powtoon](https://www.powtoon.com)
-* [presenterswall](http://www.presenterswall.com)
-* [Prezi](https://prezi.com)
-* [schnaq](https://schnaq.com)
-* [Slidedog](http://slidedog.com)
-* [Slideidea](http://slideidea.com)
-* [SlidePresenter](http://www.slidepresenter.com)
-* [SlideRocket](http://www.sliderocket.com)
-* [Slides](https://slides.com)
-* [SpeechInMinutes](http://www.speechinminutes.com/)
-* [Sway](https://sway.com)
-* [vcasmo](http://www.vcasmo.com)
-* [Visme](http://www.visme.co)
-* [Zoho Docs](https://www.zoho.com/docs/show.html)
 
-## [↑](#-Table-of-Contents) Digital Publishing
-
-* [Doclayer](https://standaert.net/doclayer)
-* [Issuu](https://issuu.com)
-* [Lucidpress](https://www.lucidpress.com)
-* [Mag.io](http://mag.io)
-* [My eBook](http://www.myebook.com)
-* [Omeka](http://omeka.org)
-* [Scribd](https://www.scribd.com)
-* [Yudu](http://yudu.com)
-
-## [↑](#-Table-of-Contents) Newsletter Tools
-
-* [AWeber](http://www.aweber.com)
-* [BombBomb](http://bombbomb.com)
-* [Campayn](http://campayn.com)
-* [ConstantContact](http://www.constantcontact.com)
-* [Freshmail](http://freshmail.com)
-* [GetResponse](http://www.getresponse.com)
-* [iContact](https://www.icontact.com)
-* [MadMimi](https://madmimi.com)
-* [Mailchimp](http://mailchimp.com)
-* [Mailjet](https://www.mailjet.com)
-* [Mailup](http://www.mailup.com)
-* [Newsletter Creator for Gmail](https://chrome.google.com/webstore/detail/newsletter-creator-for-gm/cihaednhfbocfdiflmpccekcmjepcnmb)
-* [sendinblue](https://www.sendinblue.com)
-* [Sendicate](https://www.sendicate.net)
-* [Sendloop](https://sendloop.com)
-* [TinyLetter](http://tinyletter.com)
-* [VerticalResponse](http://www.verticalresponse.com)
-* [Vision6](http://www.vision6.com.au)
-
-## [↑](#-Table-of-Contents) Digital Storytelling
-
-* [Adobe Voice](https://standout.adobe.com/voice)
-* [Animatron](https://www.animatron.com)
-* [Animoto](https://animoto.com)
-* [Atavist](https://atavist.com)
-* [Closr](https://www.closr.it)
-* [eStory](https://ejfox.github.io/sStory)
-* [Exposure](https://exposure.co)
-* [Klynt](http://www.klynt.net)
-* [MakeBeliefsComix](http://www.makebeliefscomix.com)
-* [Neatline](http://neatline.org)
-* [Odyssey](https://cartodb.github.io/odyssey.js)
-* [Pageflow](http://pageflow.io)
-* [Photodex](http://www.photodex.com)
-* [Piclits](http://www.piclits.com/compose_dragdrop.aspx)
-* [Racontr](https://racontr.com)
-* [RaptMedia](http://www.raptmedia.com)
-* [RawShorts](http://www.rawshorts.com)
-* [Shorthand Social](https://shorthand.com/social)
-* [Slate](https://slate.adobe.com)
-* [Steller](https://steller.co)
-* [StoryMap](https://storymap.knightlab.com)
-* [StoryMaps](http://storymaps.arcgis.com)
-* [Sway](https://sway.com)
-* [Thinglink](https://www.thinglink.com)
-* [Tripline](http://www.tripline.net)
-* [Wevideo](https://www.wevideo.com)
-* [VideoScribe](http://www.videoscribe.co)
-* [Zaption](http://www.zaption.com)
-* [Zooburst](http://zooburst.com)
-
-## [↑](#-Table-of-Contents) Infographics and Data Visualization
-
-* [Aeon](http://www.aeontimeline.com)
-* [Arbor.js](http://arborjs.org)
-* [Beaker](http://beakernotebook.com)
-* [Befunky](https://www.befunky.com)
-* [Bizint](http://www.bizint.com)
-* [Cacoo](https://cacoo.com)
-* [Canva](https://www.canva.com)
-* [chartblocks](http://www.chartblocks.com)
-* [Chartico](http://chartico.com)
-* [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
-* [Circos](http://circos.ca)
-* [creately](http://creately.com)
-* [Crossfilter](http://square.github.io/crossfilter)
-* [csvkit](https://github.com/wireservice/csvkit)
-* [Data Visualization Catalogue](http://datavizcatalogue.com)
-* [D3js](https://d3js.org) - is a powerful data visualization javascript library.
-* [Datawrapper](https://datawrapper.de)
-* [Dropmark](http://www.dropmark.com)
-* [dygraphs](http://dygraphs.com)
-* [easely](http://www.easel.ly)
-* [Exhibit](http://www.simile-widgets.org/exhibit)
-* [Flot](http://www.flotcharts.org)
-* [FusionCharts](http://www.fusioncharts.com)
-* [Google Developers: Charts](https://developers.google.com/chart)
-* [GraphX](http://spark.apache.org/graphx)
-* [Highcharts](http://www.highcharts.com)
-* [Hohli](http://charts.hohli.com)
-* [Inkscape](https://inkscape.org)
-* [Infogr.am](https://infogr.am)
-* [Java Infovis Toolkit](http://philogb.github.io/jit)
-* [JpGraph](http://jpgraph.net)
-* [jqPlot](http://www.jqplot.com)
-* [Kartograph](http://kartograph.org)
-* [Knoema](https://knoema.com)
-* [Leaflet](http://leafletjs.com)
-* [Listify](http://listify.okfnlabs.org)
-* [Linkuroius](http://linkurio.us)
-* [LocalFocus](https://www.localfocus.nl)
-* [Lucidchart](https://www.lucidchart.com)
-* [Mapline](https://mapline.com)
-* [Nodebox](https://www.nodebox.net)
-* [OpenLayers](http://openlayers.org)
-* [Palladio](http://hdlab.stanford.edu/palladio)
-* [Piktochart](https://piktochart.com)
-* [Pixcone](http://www.pixcone.com)
-* [Pixxa](http://www.pixxa.com)
-* [Plotly](https://plot.ly)
-* [SpicyNodes](http://www.spicynodes.org)
-* [StoryMap](https://storymap.knightlab.com)
-* [QlikView](https://www.visualintelligence.co.nz/qlikview)
-* [Quadrigram](http://www.quadrigram.com)
-* [Raphael](http://dmitrybaranovskiy.github.io/raphael)
-* [RAW](http://raw.densitydesign.org)
-* [Shanti Interactive](http://www.viseyes.org)
-* [Snappa](https://snappa.io)
-* [Statpedia](http://statpedia.com)
-* [Tableau](http://www.tableau.com)
-* [Tableau Public](https://public.tableau.com)
-* [Tagul](https://tagul.com)
-* [Textures.js](https://riccardoscalco.github.io/textures)
-* [Tiki-toki](http://www.tiki-toki.com)
-* [Tik-tok](https://datanews.github.io/tik-tok)
-* [Timeflow](https://github.com/FlowingMedia/TimeFlow/wiki)
-* [Timeglider](http://timeglider.com/widget)
-* [Timeline](http://timeline.knightlab.com)
-* [Timeline](http://www.simile-widgets.org/timeline)
-* [Timescape](https://www.timescape.io)
-* [Timetoast](http://www.timetoast.com)
-* [Weave](http://oicweave.org)
-* [Venngage](https://venngage.com)
-* [Visage](https://visage.co)
-* [Vis.js](http://visjs.org)
-* [Visme](http://www.visme.co)
-* [Visualize Free](http://visualizefree.com)
-* [Visualize.me](http://vizualize.me)
-* [visually](http://create.visual.ly)
-* [Vortex](http://www.dotmatics.com/products/vortex)
-* [ZingChart](http://www.zingchart.com)
-* [Observable](https://observablehq.com/)
-
-## [↑](#-Table-of-Contents) Image and Photo Editing
-
-* [Apple Photos](http://www.apple.com/osx/photos)
-* [Befunky](https://www.befunky.com)
-* [Croppola](http://croppola.com)
-* [FastSTone](http://www.faststone.org)
-* [Fotor](http://www.fotor.com)
-* [Foto Flexer](http://fotoflexer.com)
-* [Gimp](http://www.gimp.org) - is a free and open-source cross-platform image editor software that can be used as an alternative for Adobe Photoshop.
-* [Hugin](http://hugin.sourceforge.net)
-* [Image Composite Editor](https://research.microsoft.com/en-us/um/redmond/projects/ice/)
-* [Image Tricks Lite](https://itunes.apple.com/us/app/image-tricks-lite/id403735824?mt=12)
-* [Irfanview](http://www.irfanview.com)
-* [LightZone](http://lightzoneproject.org)
-* [Lunapic](http://www124.lunapic.com/editor)
-* [OnlineImageSplitter](http://www.htmlkit.com/services/is)
-* [Paint.NET](http://www.getpaint.net/index.html)
-* [Photoscape](http://www.photoscape.org/ps/main/index.php)
-* [Photoshop](http://www.photoshop.com)
-* [picfull](http://www.picfull.com)
-* [PicMoneky](http://www.picmonkey.com)
-* [Pixlr](https://pixlr.com)
-* [Polarr](https://www.polarr.co)
-* [Seashore](http://seashore.sourceforge.net)
-* [SumoPaint](http://www.sumopaint.com)
-* [TinyPNG](https://tinypng.com) - is a tool that can be used to compress various images formats in to smaller size.
 
 ## [↑](#-Table-of-Contents) Productivity Tools
 
@@ -1659,32 +1015,7 @@ algorithms, knowledgebase and AI technology.
 * [Tweek](https://tweek.so)
 * [Workflowy](https://workflowy.com)
 
-## [↑](#-Table-of-Contents) E-mail Management
 
-* [ActiveInbox](http://www.activeinboxhq.com)
-* [AutoHotkey](https://www.autohotkey.com)
-* [Batched Inbox](https://www.batchedinbox.com)
-* [Baydin](https://www.baydin.com)
-* [Block Sender](https://chrome.google.com/webstore/detail/block-sender/bklnjbfcmglhiaoppcckdodanccbelcg)
-* [Boomerang Mail](http://www.boomeranggmail.com)
-* [ClearContext](http://www.clearcontext.com)
-* [Cleanfox](https://www.cleanfox.io)
-* [CloudMagic](https://cloudmagic.com)
-* [FindBigMail](https://www.findbigmail.com)
-* [Followupthen](https://www.followupthen.com)
-* [Hiver](http://hiverhq.com)
-* [Integrated gmail](https://addons.mozilla.org/en-US/firefox/addon/integrated-gmail)
-* [Mailstore](http://www.mailstore.com)
-* [Hubspotsales](https://chrome.google.com/webstore/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd?hl=en)
-* [Minimalist](https://chrome.google.com/webstore/detail/minimalist-for-everything/bmihblnpomgpjkfddepdpdafhhepdbek)
-* [NudgeMail](https://www.nudgemail.com)
-* [Rapportive](https://rapportive.com)
-* [Sanebox](https://www.sanebox.com)
-* [Send for Gmail](https://chrome.google.com/webstore/detail/send-from-gmail-by-google/pgphcomnlaojlmmcjmiddhdapjpbgeoc)
-* [Sortd](http://www.sortd.com)
-* [Ugly Email](https://uglyemail.com)
-* [Unroll.me](https://unroll.me) - Easily unsubscribe in one click from email subscriptions.
-* [Wisestamp](https://chrome.google.com/webstore/detail/wisestamp-email-signature/pbcgnkmbeodkmiijjfnliicelkjfcldg)
 
 ## [↑](#-Table-of-Contents) Document and Reference Management
 
@@ -1721,41 +1052,6 @@ algorithms, knowledgebase and AI technology.
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF/)
 * [Online OCR](http://www.onlineocr.net)
 
-## [↑](#-Table-of-Contents) Cloud Storage and File Sharing
-
-* [4Shared](http://www.4shared.com)
-* [ADrive](http://www.adrive.com)
-* [Amazon Cloud drive](https://www.amazon.com/clouddrive/home)
-* [Box](https://www.box.com)
-* [Boxcryptor](https://www.boxcryptor.com)
-* [Cloudapp](http://www.getcloudapp.com)
-* [CloudFuze](https://www.cloudfuze.com)
-* [CloudHQ](https://www.cloudhq.net)
-* [Dropbox](https://www.dropbox.com)
-* [Droplr](https://droplr.com)
-* [DropSend](http://www.dropsend.com)
-* [Duplicati](http://www.duplicati.com)
-* [Egnyte](http://www.egnyte.com)
-* [GoodSync](http://www.goodsync.com)
-* [Google Drive](https://www.google.com/intl/nl/drive)
-* [hubiC](https://hubic.com)
-* [iCloud](https://www.icloud.com)
-* [Mediafire](https://www.mediafire.com)
-* [Mega](https://mega.nz)
-* [Mozy](http://mozy.com)
-* [Multicloud](https://www.multcloud.com)
-* [Onedrive](https://onedrive.live.com)
-* [Otixo](http://www.otixo.com)
-* [pCloud](https://www.pcloud.com)
-* [Sendthisfile](https://www.sendthisfile.com)
-* [Sendspace](https://www.sendspace.com)
-* [Simple.Savr](https://www.ssavr.com)
-* [Spideroak](https://spideroak.com)
-* [SugarSync](https://www.sugarsync.com)
-* [Syncthing](https://syncthing.net)
-* [TransferBigFiles](https://www.transferbigfiles.com)
-* [Tresorit](https://tresorit.com)
-* [WeTransfer](https://www.wetransfer.com)
 
 ## [↑](#-Table-of-Contents) Web Automation
 
@@ -1794,117 +1090,6 @@ algorithms, knowledgebase and AI technology.
 * [wikidPad](http://wikidpad.sourceforge.net)
 * [Zim](http://zim-wiki.org/downloads.html)
 
-## [↑](#-Table-of-Contents) Collaboration and Project Management
-
-* [10kinsights](https://www.10000ft.com)
-* [15Five](http://www.15five.com)
-* [92fiveApp](http://92fiveapp.com)
-* [5pm](http://www.5pmweb.com)
-* [ActionMint](https://www.actionmint.com)
-* [ActiveCollab](https://www.activecollab.com)
-* [Advanseez](http://www.advanseez.com)
-* [AllThings](http://www.allthings.io)
-* [Any.do](http://www.any.do)
-* [Apollo](http://www.apollohq.com)
-* [Asana](https://asana.com)
-* [Authorea](https://www.authorea.com)
-* [Azendoo](https://www.azendoo.com)
-* [Basecamp](https://basecamp.com)
-* [Binfire](https://www.binfire.com)
-* [Breeze](https://www.breeze.pm)
-* [Canvanizer](https://canvanizer.com)
-* [Casual](https://casual.pm)
-* [Cardboardit](https://cardboardit.com)
-* [Cardsmith](http://cardsmith.co) - Build visual collaboration systems with the familiarity of sticky notes on a white board.
-* [CloudApp](http://www.getcloudapp.com)
-* [Collabtive](http://collabtive.o-dyn.de)
-* [CollaborateCloud](http://www.collaboratecloud.com)
-* [Comindwork](http://www.comindwork.com)
-* [Conceptboard](https://conceptboard.com)
-* [Confluence](https://www.atlassian.com/software/confluence)
-* [CoSketch](http://cosketch.com)
-* [Crowdbase](http://crowdbase.com)
-* [Dayboard](https://dayboard.co)
-* [Draw.to](http://draw.to)
-* [eGroupWare](http://www.egroupware.org)
-* [Elegantt](https://elegantt.com)
-* [Firepad](https://firepad.io)
-* [Firesub](https://firesub.com)
-* [Flask](http://flask.io)
-* [Float](https://www.float.com)
-* [Flow](https://www.getflow.com)
-* [Frame](https://frame.io)
-* [Freedcamp](https://freedcamp.com)
-* [GetDoneDone](https://www.getdonedone.com)
-* [Glasscubes](https://www.glasscubes.com)
-* [GQueues](https://www.gqueues.com)
-* [Hightail](https://www.hightail.com)
-* [hitask](https://hitask.com)
-* [Huddle](https://www.huddle.com)
-* [Ideaflip](http://ideaflip.com)
-* [KabanTool](http://kanbantool.com)
-* [Kerika](http://kerika.com)
-* [Kommon](http://www.inkommon.com)
-* [Lattice](https://www.lattice.com)
-* [Loomio](https://www.loomio.org)
-* [LumoFlow](https://lumoflow.com)
-* [Nozbe](https://nozbe.com)
-* [Nutcache](http://www.nutcache.com)
-* [Mural](https://mural.co)
-* [OmniGroup](https://www.omnigroup.com)
-* [OnlyOffice](https://www.onlyoffice.com)
-* [Padlet](https://padlet.com)
-* [Piematrix](http://www.piematrix.com)
-* [Pinstriped](http://pinstriped.com)
-* [PivotalTracker](http://www.pivotaltracker.com)
-* [Plan](https://plan.io)
-* [Planleaf](http://www.planleaf.com)
-* [Planzone](https://www.planzone.com)
-* [Podio](https://podio.com)
-* [ProjectManager](https://www.projectmanager.com)
-* [ProjectPlace](https://www.projectplace.com)
-* [ProofHub](https://www.proofhub.com)
-* [Quip](https://quip.com)
-* [Quire](https://quire.io)
-* [Realtimeboard](https://realtimeboard.com)
-* [Redbooth](https://redbooth.com)
-* [Restya](http://restya.com)
-* [Reverb](http://reverbapp.com)
-* [ScadaPlan](http://scadaplan.com)
-* [Scribblar](http://www.scribblar.com)
-* [SeavusProjectViewer](https://www.seavusprojectviewer.com)
-* [Smartsheet](https://www.smartsheet.com)
-* [Stackfield](https://www.stackfield.com)
-* [Stormboard](https://www.stormboard.com)
-* [SyncSpace](http://infinitekind.com/syncspace)
-* [Taiga](https://taiga.io)
-* [TargetProcess](https://www.targetprocess.com)
-* [Taskboard](https://taskboard.matthewross.me)
-* [TeamAllocator](http://www.teamallocator.com)
-* [Team.fm](https://team.fm)
-* [Teamgum](http://www.teamgum.com)
-* [Team Pad](https://www.team-pad.com)
-* [TeamWork](https://www.teamwork.com)
-* [TeamWorklive](http://www.teamworklive.com)
-* [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
-* [Transparent Business](http://transparentbusiness.com)
-* [Trello](https://trello.com)
-* [Tuzzit](https://www.tuzzit.com)
-* [Twiddla](http://www.twiddla.com)
-* [Twoodo](https://www.twoodo.com)
-* [updatey](http://updatey.com)
-* [Web Whiteboard](http://webwhiteboard.com)
-* [Weekdone](https://weekdone.com)
-* [Wekan](https://wekan.io)
-* [wePaste](http://www.wepaste.com)
-* [Where.team](https://www.where.team)
-* [Whiteboard Fox](https://whiteboardfox.com)
-* [Worknoard](http://www.workboard.com)
-* [Workfront](https://www.workfront.com)
-* [Wrike](https://www.wrike.com)
-* [Yammer](https://www.yammer.com)
-* [YouTrack](https://www.jetbrains.com/youtrack)
-* [Zoho](https://www.zoho.com)
 
 ## [↑](#-Table-of-Contents) Communication Tools
 
@@ -1990,18 +1175,6 @@ algorithms, knowledgebase and AI technology.
 * [Zoom](https://zoom.us)
 * [Zulip](https://www.zulip.org)
 
-## [↑](#-Table-of-Contents) Calendars and Scheduling
-
-* [Assistant](http://www.assistant.to)
-* [Bunchapp](http://bunchapp.io)
-* [Calendly](https://calendly.com)
-* [Cozi](http://www.cozi.com)
-* [Doodle](http://doodle.com)
-* [Meetin.gs](http://www.meetin.gs)
-* [MyMemorizer](http://www.mymemorizer.com)
-* [ScheduleOnce](http://www.scheduleonce.com)
-* [TeamUp](http://www.teamup.com)
-* [Teamweek](https://teamweek.com)
 
 ## [↑](#-Table-of-Contents) Mind Mapping, Concept Mapping and Idea Generation Tools
 
@@ -2039,7 +1212,7 @@ algorithms, knowledgebase and AI technology.
 * [yWorks](http://www.yworks.com/en/products_yed_gallery.html)
 * [Xmind](http://www.xmind.net)
 
-## [↑](#-Table-of-Contents) Social Network Analysis
+# Social Network Analysis
 
 * [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
 * [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
@@ -2047,7 +1220,7 @@ algorithms, knowledgebase and AI technology.
 * [Wynyard Group](https://wynyardgroup.com)
 * [Visual Investigative Scenarios](https://vis.occrp.org)
 
-## [↑](#-Table-of-Contents) Privacy and Encryption Tools
+# Opsec Privacy and Encryption Tools
 
 * [Abine](https://www.abine.com)
 * [Adium](https://adium.im)
@@ -2152,14 +1325,14 @@ urls and other data effortlessly
 * [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 
-## [↑](#-Table-of-Contents) Threat Intelligence
+## [↑]Threat Intelligence
 
 * [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 * [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
-## [↑](#-Table-of-Contents) OSINT Videos
+## [↑]OSINT Videos
 
 * [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
@@ -2167,7 +1340,7 @@ urls and other data effortlessly
 * [Bendobrown](https://www.youtube.com/c/Bendobrown)
 * [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y)
 
-## [↑](#-Table-of-Contents) OSINT Blogs
+## [↑]OSINT Blogs
 
 * [Bellingcat](https://www.bellingcat.com/)
 * [NixIntel](https://nixintel.info/)
@@ -2189,13 +1362,6 @@ urls and other data effortlessly
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 * [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022. 
 
-## [↑](#-Table-of-Contents) Project Management Tools
-
-*Project management tools, Scrum tools, and Project Boards.*
-
-* [ClickUp](https://www.clickup.com) - Heavy-weight Task Management 
-* [Scrumfast](https://www.scrumfast.com) - Light-weight, Free Project Management Tool
-* [Trello](https://www.trello.com) - Free Team Project Board
 
 ## License
 
